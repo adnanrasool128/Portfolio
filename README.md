@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-🚀 **Live Demo**: [Explore Now](https://tarakkatoch.github.io/Portfolio/)
+🚀 **Live Demo**: [Explore Now](https://adnanrasool128.github.io/portfolio/)
 
 ---
 
